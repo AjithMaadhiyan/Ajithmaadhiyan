@@ -2,26 +2,26 @@
 
 ### 🚀 Aspiring DevOps Engineer | B.Tech in AI & Data Science 
 
-🤜I am a results-driven professional specializing in automating deployment processes, containerizing applications, and managing cloud infrastructure[cite: 4, 5].My focus is on bridging the gap between intelligent data systems and robust DevOps lifecycles.
+🤜I am a results-driven professional specializing in automating deployment processes, containerizing applications, and managing cloud infrastructure.My focus is on bridging the gap between intelligent data systems and robust DevOps lifecycles.
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🔭 **Currently:** DevOps Intern managing and automating cloud infrastructure and CI/CD pipelines[cite: 10, 11].
-- 🌱 **Learning:** Scaling microservices with Kubernetes and advanced Infrastructure as Code (IaC)[cite: 28, 30].
-- 🛠️ **Key Achievement:** Improved deployment efficiency by approximately 80% through cloud optimization at Oracle[cite: 15, 16].
-- ⚡ **Impact:** Improved resume evaluation accuracy by 30% using NLP-based analysis for the AI Mentor project[cite: 20, 22].
-- 💬 **Ask me about:** AWS, Docker, Jenkins, and Python automation[cite: 27, 29].
+- 🔭 **Currently:** DevOps Intern managing and automating cloud infrastructure and CI/CD pipelines.
+- 🌱 **Learning:** Scaling microservices with Kubernetes and advanced Infrastructure as Code (IaC)
+- 🛠️ **Key Achievement:** Improved deployment efficiency by approximately 80% through cloud optimization at Oracle.
+- ⚡ **Impact:** Improved resume evaluation accuracy by 30% using NLP-based analysis for the AI Mentor project.
+- 💬 **Ask me about:** AWS, Docker, Jenkins, and Python automation.
 
 ---
 
-### 🌐 Social Presence
+### 🌐 Social Presence....
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ajithkumarmaadhiyan)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ajithkumarmv10@gmail.com)
 
 ---
 
-### 🛠️ Technical Stack & Tools (Parallel View)
+### 🛠️ Technical Stack & Tools ....
 
 | Category | Technologies & Tools |
 | :--- | :--- |
