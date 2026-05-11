@@ -18,7 +18,7 @@ DevOps Engineer | AI & Data Science Student @
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ajithkumarmv10@gmail.com)
 
-[<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />](AjithMaadhiyan (Ajithkumar ) https://share.google/mT1PZFvgV6fYpZXtc)
+[<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />]( https://share.google/mT1PZFvgV6fYpZXtc)
 
 ---
 
