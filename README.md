@@ -6,11 +6,11 @@
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- [cite_start]🔭 **Currently:** DevOps Intern managing and automating cloud infrastructure and CI/CD pipelines[cite: 10, 11].
-- [cite_start]🌱 **Learning:** Scaling microservices with Kubernetes and advanced Infrastructure as Code (IaC)[cite: 28, 30].
-- [cite_start]🛠️ **Key Achievement:** Improved deployment efficiency by approximately 80% through cloud optimization at Oracle[cite: 15, 16].
-- [cite_start]⚡ **Impact:** Improved resume evaluation accuracy by 30% using NLP-based analysis for the AI Mentor project[cite: 20, 22].
-- [cite_start]💬 **Ask me about:** AWS, Docker, Jenkins, and Python automation[cite: 27, 29].
+- 🔭 **Currently:** DevOps Intern managing and automating cloud infrastructure and CI/CD pipelines[cite: 10, 11].
+- 🌱 **Learning:** Scaling microservices with Kubernetes and advanced Infrastructure as Code (IaC)[cite: 28, 30].
+- 🛠️ **Key Achievement:** Improved deployment efficiency by approximately 80% through cloud optimization at Oracle[cite: 15, 16].
+- ⚡ **Impact:** Improved resume evaluation accuracy by 30% using NLP-based analysis for the AI Mentor project[cite: 20, 22].
+- 💬 **Ask me about:** AWS, Docker, Jenkins, and Python automation[cite: 27, 29].
 
 ---
 
@@ -30,11 +30,6 @@
 | **Full Stack** | <img src="https://img.icons8.com/color/48/000000/react-native.png" width="35"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="35"/> <img src="https://img.icons8.com/color/48/000000/django.png" width="35"/> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="35"/> <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" width="35"/> |
 | **Databases** | <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="35"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="35"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="35"/> <img src="https://img.icons8.com/color/48/000000/firebase.png" width="35"/> |
 | **IDEs & Productivity** | <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="35"/> <img src="https://img.icons8.com/color/48/000000/git.png" width="35"/> <img src="https://img.icons8.com/color/48/000000/github.png" width="35"/> <img src="https://img.icons8.com/color/48/000000/figma--v1.png" width="35"/> <img src="https://img.icons8.com/color/48/000000/notion--v1.png" width="35"/> |
-
----
-
-### 📊 GitHub Activity
-![Ajithkumar's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true)
 
 ---
 
