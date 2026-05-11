@@ -2,7 +2,7 @@
 
 ### 🚀 Aspiring DevOps Engineer | B.Tech in AI & Data Science 
 
-[cite_start]I am a results-driven professional specializing in automating deployment processes, containerizing applications, and managing cloud infrastructure[cite: 4, 5]. [cite_start]My focus is on bridging the gap between intelligent data systems and robust DevOps lifecycles[cite: 6].
+🤜I am a results-driven professional specializing in automating deployment processes, containerizing applications, and managing cloud infrastructure[cite: 4, 5].My focus is on bridging the gap between intelligent data systems and robust DevOps lifecycles.
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
