@@ -8,8 +8,8 @@
 
 - 🔭 **Currently:** DevOps Intern managing and automating cloud infrastructure and CI/CD pipelines.
 - 🌱 **Learning:** Scaling microservices with Kubernetes and advanced Infrastructure as Code (IaC)
-- 🛠️ **Key Achievement:** Improved deployment efficiency by approximately 80% through cloud optimization at Oracle.
-- ⚡ **Impact:** Improved resume evaluation accuracy by 30% using NLP-based analysis for the AI Mentor project.
+- 🛠️ **Key Achievement:** Improved deployment efficiency by approximately 80% through cloud optimization at AWS.
+- ⚡ **Impact:** Improved resume evaluation accuracy by 75% using NLP-based analysis for the AI Mentor project.
 - 💬 **Ask me about:** AWS, Docker, Jenkins, and Python automation.
 
 ---
