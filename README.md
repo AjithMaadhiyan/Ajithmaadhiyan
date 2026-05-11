@@ -14,11 +14,11 @@ DevOps Engineer | AI & Data Science Student @
 
 <br />
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ajithkumarmaadhiyan?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ajithkumarmv10@gmail.com)
 
-[<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/YOUR_GITHUB_USERNAME)
+[<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />](AjithMaadhiyan (Ajithkumar ) https://share.google/mT1PZFvgV6fYpZXtc)
 
 ---
 
