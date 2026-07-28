@@ -1,11 +1,10 @@
-<!-- ===== THEME-AWARE HERO BANNER ===== -->
-<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
+<!-- ===== TERMINAL HERO CARD ===== -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ajithkumar-M/Ajithkumar-M/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ajithkumar-M/Ajithkumar-M/main/light.svg">
-  <img alt="M Ajithkumar" src="https://raw.githubusercontent.com/Ajithkumar-M/Ajithkumar-M/main/light.svg">
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ajithkumar-M/Ajithkumar-M/main/terminal-card.svg" alt="M Ajithkumar terminal card" width="100%">
+</div>
+
+<!-- ===== END TERMINAL HERO CARD ===== -->
 
 ## Hi there 👋 It's me M Ajithkumar
 ### 🚀 Aspiring DevOps Engineer | B.Tech in AI & Data Science 
@@ -83,9 +82,12 @@ while(true) {
 <!--
 SETUP NOTES (delete once done):
 1. Create a repo named exactly "Ajithkumar-M" — GitHub turns this into your profile README automatically.
-2. Hero banner: design your own light.svg / dark.svg and push to the repo root with those filenames.
-2b. Profile photo: upload profile-animated.svg (generated from your photo, with a rotating gradient
-    ring) to the repo root — I've already wired the "About Me" section to load it from there.
+2. Upload these two generated files to the repo root:
+   - terminal-card.svg   (the SYSTEM.INFO hero card with your pixel-art portrait)
+   - profile-animated.svg (the circular animated photo used lower in the About Me section)
 3. Contribution snake: set up the Platane/snk GitHub Action to generate snake-dark.svg / snake-light.svg
    on an "output" branch: https://github.com/Platane/snk#-getting-started
+4. The Total Contributions / Streak / Stars / Commits numbers in the reference screenshot come from
+   the account's real GitHub activity — they're not something a README can fake. The stats badges
+   above are already wired to your real username and will fill in as you commit code.
 -->
