@@ -1,8 +1,20 @@
-## Hi there 👋 It's me M Ajithkumar
+<!-- ===== THEME-AWARE HERO BANNER ===== -->
+<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
+<!-- NOTE: Replace these two URLs with your own hero banner SVGs once you design/upload them
+     (e.g. via a Canva/Figma export, or a tool like readme-typing-svg). Until then this will 404. -->
 
-### 🚀 Aspiring DevOps Engineer | B.Tech in AI & Data Science 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ajithkumar-M/Ajithkumar-M/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ajithkumar-M/Ajithkumar-M/main/light.svg">
+  <img alt="M Ajithkumar" src="https://raw.githubusercontent.com/Ajithkumar-M/Ajithkumar-M/main/light.svg">
+</picture>
 
-🤜I am a results-driven professional specializing in automating deployment processes, containerizing applications, and managing cloud infrastructure.My focus is on bridging the gap between intelligent data systems and robust DevOps lifecycles.
+<h1 align="center">Hi there 👋 It's me M Ajithkumar</h1>
+<h3 align="center">🚀 Aspiring DevOps Engineer | B.Tech in AI &amp; Data Science</h3>
+
+<p align="center">
+🤜 I am a results-driven professional specializing in automating deployment processes, containerizing applications, and managing cloud infrastructure. My focus is on bridging the gap between intelligent data systems and robust DevOps lifecycles.
+</p>
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
@@ -12,16 +24,24 @@
 - ⚡ **Impact:** Improved resume evaluation accuracy by 75% using NLP-based analysis for the AI Mentor project.
 - 💬 **Ask me about:** AWS, Docker, Jenkins, and Python automation.
 
----
-
-### 🌐 Social Presence....
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ajithkumarmaadhiyan)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ajithkumarmv10@gmail.com)
+<br clear="right"/>
 
 ---
 
-### 🛠️ Technical Stack & Tools ....
+### 🌐 Social Presence
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ajithkumarmaadhiyan">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ajithkumarmv10@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+### 🛠️ Technical Stack & Tools
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -33,10 +53,60 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Ajithkumar-M&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Ajithkumar-M&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Ajithkumar's streak" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=Ajithkumar-M&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=Ajithkumar-M&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Ajithkumar's GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=Ajithkumar-M&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=Ajithkumar-M&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+</picture>
+
+</div>
+
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+<!-- NOTE: This needs a GitHub Action (Platane/snk) running on your profile repo to generate
+     snake-dark.svg / snake-light.svg on an "output" branch. See setup note at the bottom. -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ajithkumar-M/Ajithkumar-M/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ajithkumar-M/Ajithkumar-M/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Ajithkumar-M/Ajithkumar-M/output/snake-light.svg" />
+</picture>
+
+</div>
+
+---
+
 ### ⚡ Fun Quote
+
 ```bash
 while(true) {
     learn();
     build();
     automate();
 }
+```
+
+<!--
+SETUP NOTES (delete this block once done):
+1. Create a repo named exactly "Ajithkumar-M" (matches your username) — GitHub turns this into your profile README automatically.
+2. Hero banner: design your own light.svg / dark.svg (Figma/Canva export, or a generator like
+   https://readme-typing-svg.demolab.com) and push them to the repo root, matching the filenames above.
+3. Contribution snake: add the Platane/snk GitHub Action to auto-generate snake-dark.svg / snake-light.svg
+   on an "output" branch: https://github.com/Platane/snk#-getting-started
+4. Swap the icons8 badge images for your own if you'd like different tooling icons.
+-->
